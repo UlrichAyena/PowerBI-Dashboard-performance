@@ -105,7 +105,7 @@ Page consacrée au **profilage et à la segmentation** de la clientèle.
 
 **AYENA Mahougnon** — Data Analyst / Data Scientist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahougnon-ayena/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/UlrichAyena)
 
-> N'hésitez pas à me contacter pour toute question sur ce projet ou pour échanger sur des opportunités de collaboration.
+
