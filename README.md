@@ -20,7 +20,7 @@ Ce dashboard a été conçu pour donner à une direction commerciale une vision 
 - 🚀 Taux de croissance : **56,28 %**
 - 👥 18 000 clients actifs, répartis sur l'ensemble du territoire français
 
-📥 **[Télécharger le fichier Power BI (.pbix)](Dasbord_vente_N.pbix)** — nécessite [Power BI Desktop](https://www.microsoft.com/fr-fr/power-platform/products/power-bi/downloads) (gratuit) pour être ouvert.
+📥 **[Télécharger le fichier Power BI (.pbix)](./Dasbord_vente_N.pbix)** — nécessite [Power BI Desktop](https://www.microsoft.com/fr-fr/power-platform/products/power-bi/downloads) (gratuit) pour être ouvert.
 
 ---
 
@@ -37,7 +37,7 @@ Le rapport comprend **4 pages**, accessibles via un menu de navigation latéral 
 
 ---
 
-## 🏠 Page 1 — Accueil (Vue globale)
+## 🏠 Page 1 - Accueil (Vue globale)
 
 ![Accueil](01-accueil.png)
 
@@ -53,7 +53,7 @@ Page d'entrée du dashboard, elle donne une **photographie instantanée** de la 
 
 ---
 
-## 📈 Page 2 — Evaluation CA
+## 📈 Page 2 - Evaluation CA
 
 ![Evaluation CA](02-evaluation-ca.png)
 
@@ -65,7 +65,7 @@ Page dédiée au **suivi de la croissance** du chiffre d'affaires dans le temps 
 
 ---
 
-## 📦 Page 3 — Analyse Produit
+## 📦 Page 3 - Analyse Produit
 
 ![Analyse Produit](03-analyse-produit.png)
 
@@ -77,7 +77,7 @@ Page centrée sur la **rentabilité du catalogue** et l'identification des produ
 
 ---
 
-## 🧑‍🤝‍🧑 Page 4 — Analyse Client
+## 🧑‍🤝‍🧑 Page 4 - Analyse Client
 
 ![Analyse Client](04-analyse-client.png)
 
