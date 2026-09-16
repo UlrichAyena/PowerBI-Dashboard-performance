@@ -20,7 +20,7 @@ Ce dashboard a été conçu pour donner à une direction commerciale une vision 
 - 🚀 Taux de croissance : **56,28 %**
 - 👥 18 000 clients actifs, répartis sur l'ensemble du territoire français
 
-📥 **[Télécharger le fichier Power BI (.pbix)](./Dashbord_vente_N.pbix)** — nécessite [Power BI Desktop](https://www.microsoft.com/fr-fr/power-platform/products/power-bi/downloads) (gratuit) pour être ouvert.
+📥 **[Télécharger le fichier Power BI (Dashbord_vente_N.pbix)](./Dashbord_vente_N.pbix)**  — nécessite [Power BI Desktop](https://www.microsoft.com/fr-fr/power-platform/products/power-bi/downloads) (gratuit) pour être ouvert.
 
 ---
 
