@@ -29,9 +29,7 @@ Ce dashboard a été conçu pour donner à une direction commerciale une vision 
 ---
 ## 🧩 Modèle de données
 
-![Accueil](01-accueil.png)
-
-![Schéma relationnel](schema-relationnel.png)
+![Schéma relationnel](./schema-relationnel.png)
 
 Le modèle repose sur un **schéma en étoile** : la table de faits **ventes** est reliée à trois tables de dimensions via des relations **1 → N** (une ligne de dimension pour plusieurs lignes de ventes).
 
