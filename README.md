@@ -31,7 +31,6 @@ Ce dashboard a été conçu pour donner à une direction commerciale une vision 
 
 ![Schéma relationnel](schema-relationnel.png)
 
-
 Le modèle repose sur un **schéma en étoile** : la table de faits **ventes** est reliée à trois tables de dimensions via des relations **1 → N** (une ligne de dimension pour plusieurs lignes de ventes).
 
 | Table | Rôle | Colonnes principales |
@@ -58,7 +57,6 @@ Le rapport comprend **4 pages**, accessibles via un menu de navigation latéral 
 | [🧑‍🤝‍🧑 Analyse Client](#-page-4--analyse-client) | Segmentation et comportement des clients |
 
 ---
-
 ## 🏠 Page 1 - Accueil (Vue globale)
 
 ![Accueil](01-accueil.png)
