@@ -26,6 +26,27 @@ Ce dashboard a été conçu pour donner à une direction commerciale une vision 
 
 ## 🗂️ Structure du dashboard
 
+---
+## 🧩 Modèle de données
+
+![Schéma relationnel](schema-relationnel.png)
+
+Le modèle repose sur un **schéma en étoile** : la table de faits **ventes** est reliée à trois tables de dimensions via des relations **1 → N** (une ligne de dimension pour plusieurs lignes de ventes).
+
+| Table | Rôle | Colonnes principales |
+|---|---|---|
+| **ventes** | Table de faits | vente_id, date, client_id, produit_id, quantite, prix_unitaire, remise, mode_paiement |
+| **clients** | Dimension | client_id, nom, ville, region, age, genre, date_inscription, profession, revenu |
+| **produits** | Dimension | produit_id, nom, categorie, marque, prix, cout, stock |
+| **Date** | Dimension temporelle | Date, Année, Mois (utilisée pour les calculs N/N-1 et la saisonnalité) |
+
+**Relations :**
+- `clients[client_id]` → `ventes[client_id]` (1 → *)
+- `produits[produit_id]` → `ventes[produit_id]` (1 → *)
+- `Date[Date]` → `ventes[date]` (1 → *)
+
+> 💡 Les colonnes calculées en DAX (ex. `CA_Client`, `genre_modif`, `Ordre_Age`, `MargeUnitaireCol`, `Annee`) ne figurent pas dans les tables sources ci-dessus.
+
 Le rapport comprend **4 pages**, accessibles via un menu de navigation latéral :
 
 | Page | Objectif |
