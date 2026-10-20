@@ -55,7 +55,7 @@ Le rapport comprend **4 pages**, accessibles via un menu de navigation latéral 
 | [📈 Evaluation CA](#-page-2---evaluation-ca) | Analyse détaillée de la croissance du chiffre d'affaires |
 | [📦 Analyse Produit](#-page-3---analyse-produit) | Rentabilité et performance du catalogue produit |
 | [🧑‍🤝‍🧑 Analyse Client](#-page-4---analyse-client) | Segmentation et comportement des clients |
-| [👥 Analyse Client](#-page-4---analyse-client) | Segmentation et comportement des clients |
+
 
 ---
 ## 🏠 Page 1 - Accueil (Vue globale)
@@ -99,6 +99,7 @@ Page centrée sur la **rentabilité du catalogue** et l'identification des produ
 ---
 
 ## 🧑‍🤝‍🧑 Page 4 - Analyse Client
+
 
 ![Analyse Client](04-analyse-client.png)
 
